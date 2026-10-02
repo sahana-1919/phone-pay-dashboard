@@ -187,4 +187,4 @@ Converting raw datasets into actionable insights
 Power BI | DAX | Power Query | Excel | Data Cleaning | Data Transformation | Data Visualization | Data Modeling | KPI Analysis | Business Intelligence | Data Analytics
 ## SCREENSHOT LINK
 1st pg : https://github.com/sahana-1919/phone-pay-dashboard/blob/main/Screenshot%202026-10-02%20184314.png
-2nd : 
+2nd : https://github.com/sahana-1919/phone-pay-dashboard/blob/main/Screenshot%202026-10-02%20184343.png
